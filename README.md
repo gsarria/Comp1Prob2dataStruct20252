@@ -1,2 +1,5 @@
-# Comp1Prob2dataStruct20252
-Problema 2 de la Competencia 1 del curso Estructuras de Datos Grupo B 2025-2
+# Problema 2: Invertir Sin Arreglo Auxiliar
+
+Imprime el arreglo invertido sin usar arreglo auxiliar.
+
+Sigue las instrucciones del Problema 2 del Problemset.
